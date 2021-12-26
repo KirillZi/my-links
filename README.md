@@ -1386,6 +1386,7 @@
 - [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A huge list on the official wiki -- `collection`
 - [Presto](https://github.com/facebook/presto) - Distributed SQL query engine for big data, by Facebook -- `Java`
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL management GUI for Mac -- `OS X`
+- [Rumba](https://www.dbinvent.com/) - Database schema migration tool -- `various lang` 
 - [shift](https://github.com/square/shift) - Schema migrations for MySQL, by Square -- `Ruby`
 - [SQLite](https://sqlite.org/) - Self-contained, serverless, zero-configuration, transactional SQL database engine, great for testing -- `C`
 - [sqlmap](http://sqlmap.org/) - Detect and exploit SQL injection flaws, pen testing tool -- `Python`
